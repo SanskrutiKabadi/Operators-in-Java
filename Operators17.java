@@ -7,7 +7,6 @@ class Operators17{
                 A=Sc.nextInt();
                 System.out.println("enter second number :");
                 B=Sc.nextInt();
-
                 Ans=++A+B+++A++;
                 System.out.println("Ans = "+Ans);
                 System.out.println("A = "+A);
