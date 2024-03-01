@@ -8,8 +8,7 @@ class Operators19{
                 A=Sc.nextInt();
                 System.out.println("enter second number :");
                 B=Sc.nextInt();
-
-                Ans=A>B && B<A;
+                 Ans=A>B && B<A;  
                 System.out.println("Ans = "+Ans);
 
         }
