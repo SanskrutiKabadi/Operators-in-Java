@@ -10,9 +10,7 @@ class Operators15{
              
                 Ans1=++A+A++;
 		Ans2=--B+B--;
-
-
-                System.out.println("Ans1 = "+Ans1);
+		System.out.println("Ans1 = "+Ans1);
 		System.out.println("Ans2 = "+Ans2);
 		System.out.println("A = "+A);
 		System.out.println("B = "+B);
